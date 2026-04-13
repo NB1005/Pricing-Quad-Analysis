@@ -43,8 +43,9 @@ Then it crosses those tiers into a simple **2×2 quadrant** to reveal concentrat
 
 ## 3) Results (business impact)
 
-***Reference 'quad_image_example.png' & 'quartiles_image_example.png' files in repo***
+![Quad Example]([https://github.com/NB1005/Pricing-Quad-Analysis/blob/main/quad_image_example.png] "Click to view example of quad results")
 
+![Quartile Example]([https://github.com/NB1005/Pricing-Quad-Analysis/blob/main/quartiles_image_example.png] "Click to view example of quartile results")
 
 In a prior implementation, this analysis directly supported:
 
