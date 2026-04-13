@@ -1,27 +1,70 @@
-# Pricing-Quad-Analysis
-A four-quadrant analysis that transforms transactional data into actionable segments for customers and products, helping organizations maximize value while minimizing waste.
+**Case Study: 80/20 Customer × Product Quadrant Analysis (Pareto Segmentation)**
 
+A walkthrough of how I framed the problem, built the model, and delivered measurable business impact. **The underlying template is intentionally not included** to protect proprietary methodology and the organizational value it enables.
 
-### 80/20 Customer x Product Quadrant Analysis (Pareto Segmentation)
+## 1) Problem framing
 
-This model applies the Pareto Principle to segment both **customers** and **products** into two tiers:
+Many businesses have revenue concentrated in a small set of customers and products — but the *mix* matters.
 
-- **A segment:** the ~20% that generates ~80% of revenue
-- **B segment:** the remaining ~80% that generates ~20% of revenue
+**Key questions:**
 
-By crossing customer and product tiers, the template surfaces a clear **2x2 view of revenue concentration and profitability trade-offs**:
+- Which customers and products truly drive revenue and profit?
+- Where are we under-monetizing (pricing leakage) vs. over-investing (cost-to-serve)?
+- Which parts of the portfolio should we protect, expand, or rationalize?
 
-- **AA:** Top customers purchasing top-grossing products
-- **AB:** Top customers purchasing lower-grossing products
-- **BA:** Lower-grossing customers purchasing top-grossing products
-- **BB:** Lower-grossing customers purchasing lower-grossing products
+**Goal:** Create a repeatable, executive-ready segmentation that clarifies where to focus pricing, product strategy, and operational effort.
+
+## 2) Model approach (how it works)
+
+This template applies the **Pareto Principle (80/20)** to segment both **customers** and **products** into tiers:
+
+- **A segment:** ~20% that drives ~80% of revenue
+- **B segment:** remaining ~80% that drives ~20% of revenue
+
+Then it crosses those tiers into a simple **2×2 quadrant** to reveal concentration and trade-offs:
+
+- **AA:** Top customers buying top products (core franchise)
+- **AB:** Top customers buying lower-tier products (expansion / cross-sell)
+- **BA:** Long-tail customers buying top products (pricing + channel optimization)
+- **BB:** Long-tail customers buying long-tail products (rationalization / cost-to-serve)
+
+**Inputs (typical):**
+
+- Transaction-level revenue by customer × product (cost / margin / product segmentation)
+
+**Core outputs:**
+
+- Customer and product A/B cutoffs
+- Quadrant-level revenue and margin concentration
+- Target lists for:
+    - pricing governance & discount cleanup
+    - product discontinuation candidates
+    - accounts with unfavorable cost-to-serve
+
+## 3) Results (business impact)
 
 In a prior implementation, this analysis directly supported:
 
-- **Pricing strategy:** identified a price architecture that preserved value for top customers while improving monetization of lower-value segments
-- **Portfolio rationalization:** highlighted underperforming products to discontinue
-- **Customer profitability:** flagged accounts that did not justify cost-to-serve
+- **Pricing strategy:** informed a price architecture that protected top-customer value while improving monetization in lower-value segments
+- **Portfolio rationalization:** identified underperforming products to discontinue
+- **Customer profitability:** surfaced accounts that did not justify cost-to-serve
 
-**Impact (12 months):** sized **$200M+** in strategic pricing opportunities and improved factory operational efficiency by **38%** through product portfolio pruning.
+**Impact over 12 months:**
 
-Re-running this analysis annually creates a repeatable decision framework for pricing, product strategy, and customer focus.
+- Sized **$200M+** in strategic pricing opportunities
+- Improved factory operational efficiency by **38%** through product portfolio pruning and simplified production focus
+
+### Files Included:
+
+quad_image_example.png (screenshot example of quad results)
+
+quartile_image-example.png (screenshot example quartile results)
+
+---
+
+<aside>
+<img src="i" alt="i" width="40px" />
+
+**Note:** Re-running this analysis annually creates a consistent decision framework for pricing, product strategy, and customer focus.
+
+</aside>
