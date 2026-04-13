@@ -43,7 +43,8 @@ Then it crosses those tiers into a simple **2×2 quadrant** to reveal concentrat
 
 ## 3) Results (business impact)
 
-***reference 'quad_image_example.png' & 'quartiles_image_example.png' files in repo***
+***Reference 'quad_image_example.png' & 'quartiles_image_example.png' files in repo***
+
 
 In a prior implementation, this analysis directly supported:
 
