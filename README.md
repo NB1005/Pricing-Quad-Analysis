@@ -1,4 +1,4 @@
-**Case Study: 80/20 Customer × Product Quadrant Analysis (Pareto Segmentation)**
+## Case Study: 80/20 Customer × Product Quadrant Analysis (Pareto Segmentation)
 
 A walkthrough of how I framed the problem, built the model, and delivered measurable business impact. **The underlying template is intentionally not included** to protect proprietary methodology and the organizational value it enables.
 
@@ -62,9 +62,4 @@ quartile_image-example.png (screenshot example quartile results)
 
 ---
 
-<aside>
-<img src="i" alt="i" width="40px" />
-
 **Note:** Re-running this analysis annually creates a consistent decision framework for pricing, product strategy, and customer focus.
-
-</aside>
