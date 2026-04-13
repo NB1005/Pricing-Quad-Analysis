@@ -43,6 +43,8 @@ Then it crosses those tiers into a simple **2×2 quadrant** to reveal concentrat
 
 ## 3) Results (business impact)
 
+![Example](images/quad_image_example.png "2x2 Pricing Quad")
+
 In a prior implementation, this analysis directly supported:
 
 - **Pricing strategy:** informed a price architecture that protected top-customer value while improving monetization in lower-value segments
