@@ -54,7 +54,7 @@ In a prior implementation, this analysis directly supported:
 **Impact over 12 months:**
 
 - Sized **$28M+** in strategic pricing opportunities
-- Improved factory operational efficiency by **38%** through product portfolio pruning and simplified production focus
+- Improved factory operational efficiency through product portfolio pruning and simplified production focus
 
 ### Files Included:
 
